@@ -43,9 +43,9 @@
                 <li class="nav-item">
                     <a class="nav-link js-scroll-trigger" href="#portfolio">Portfólio</a>
                 </li>
-                <li class="nav-item">
+               <!-- <li class="nav-item">
                     <a class="nav-link js-scroll-trigger" href="#about">Sobre</a>
-                </li>
+                </li> -->
                 <li class="nav-item">
                     <a class="nav-link js-scroll-trigger" href="#team">Time</a>
                 </li>
@@ -120,7 +120,7 @@
                 </a>
                 <div class="portfolio-caption">
                     <h4>Futebol de Sabão</h4>
-                    <p class="text-muted">Illustration</p>
+                    <p class="text-muted">Tamanho: 150 x 185</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 portfolio-item">
@@ -130,11 +130,11 @@
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img class="img-fluid" src="img/portfolio/02-thumbnail.jpg" alt="">
+                    <img class="img-fluid" src="img/portfolio/castelinho.jpeg" alt="">
                 </a>
                 <div class="portfolio-caption">
-                    <h4>Explore</h4>
-                    <p class="text-muted">Graphic Design</p>
+                    <h4>Castelo + Escorrega</h4>
+                    <p class="text-muted">Tamanho: 90 x 185</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 portfolio-item">
@@ -144,11 +144,11 @@
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img class="img-fluid" src="img/portfolio/03-thumbnail.jpg" alt="">
+                    <img class="img-fluid" src="img/portfolio/castelinho2.jpeg" alt="">
                 </a>
                 <div class="portfolio-caption">
-                    <h4>Finish</h4>
-                    <p class="text-muted">Identity</p>
+                    <h4>Castelinho Inflável</h4>
+                    <p class="text-muted">Tamanho: 90 x 185</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 portfolio-item">
@@ -158,11 +158,11 @@
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img class="img-fluid" src="img/portfolio/04-thumbnail.jpg" alt="">
+                    <img class="img-fluid" src="img/portfolio/pulapula.jpeg" alt="">
                 </a>
                 <div class="portfolio-caption">
-                    <h4>Lines</h4>
-                    <p class="text-muted">Branding</p>
+                    <h4>Pula-Pula</h4>
+                    <p class="text-muted">Tamanho: 90 x 185</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 portfolio-item">
@@ -172,11 +172,11 @@
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img class="img-fluid" src="img/portfolio/05-thumbnail.jpg" alt="">
+                    <img class="img-fluid" src="img/portfolio/escorrega2.jpeg" alt="">
                 </a>
                 <div class="portfolio-caption">
-                    <h4>Southwest</h4>
-                    <p class="text-muted">Website Design</p>
+                    <h4>Escorrega Inflável</h4>
+                    <p class="text-muted">Tamanho: 90 x 185</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 portfolio-item">
@@ -186,18 +186,18 @@
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img class="img-fluid" src="img/portfolio/06-thumbnail.jpg" alt="">
+                    <img class="img-fluid" src="img/portfolio/contonete.jpeg" alt="">
                 </a>
                 <div class="portfolio-caption">
-                    <h4>Window</h4>
-                    <p class="text-muted">Photography</p>
+                    <h4>Guerra de Contonete</h4>
+                    <p class="text-muted">Tamanho: 90 x 185</p>
                 </div>
             </div>
         </div>
     </div>
 </section>
 
-<!-- About -->
+<!-- About
 <section class="page-section" id="about">
     <div class="container">
         <div class="row">
@@ -277,22 +277,22 @@
         </div>
     </div>
 </section>
-
+-->
 <!-- Team -->
 <section class="bg-light page-section" id="team">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading text-uppercase">Our Amazing Team</h2>
+                <h2 class="section-heading text-uppercase">Nossa Incrível Equipe</h2>
                 <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-4">
+           <div class="col-sm-12">
                 <div class="team-member">
-                    <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="">
-                    <h4>Kay Garland</h4>
-                    <p class="text-muted">Lead Designer</p>
+                    <img class="mx-auto rounded-circle" src="img/team/igorrafael.jpeg" alt="">
+                    <h4>Igor Rafael</h4>
+                    <p class="text-muted">CEO</p>
                     <ul class="list-inline social-buttons">
                         <li class="list-inline-item">
                             <a href="#">
@@ -312,7 +312,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-sm-4">
+          <!--  <div class="col-sm-4">
                 <div class="team-member">
                     <img class="mx-auto rounded-circle" src="img/team/2.jpg" alt="">
                     <h4>Larry Parker</h4>
@@ -359,7 +359,7 @@
                         </li>
                     </ul>
                 </div>
-            </div>
+            </div>-->
         </div>
         <div class="row">
             <div class="col-lg-8 mx-auto text-center">
@@ -402,7 +402,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading text-uppercase">Contact Us</h2>
+                <h2 class="section-heading text-uppercase">Nos mande um Email</h2>
                 <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
             </div>
         </div>
@@ -433,11 +433,19 @@
                         <div class="clearfix"></div>
                         <div class="col-lg-12 text-center">
                             <div id="success"></div>
-                            <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Send Message</button>
+                            <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Enviar menssagem</button>
                         </div>
                     </div>
                 </form>
             </div>
+        </div>
+        <br><br><br>
+        <div class="col-lg-12 text-center">
+            <h2 class="section-heading text-uppercase">OU</h2>
+            <br>
+            <h2 class="section-heading text-uppercase">ENTRE EM CONTATO</h2>
+            <h4 class="section-heading text-uppercase">TELEFONE: (82) 9 9999-9999</h4>
+            <h3 class="section-subheading text-muted">Celular e WathsApp.</h3>
         </div>
     </div>
 </section>
@@ -447,7 +455,7 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-md-4">
-                <span class="copyright">Copyright &copy; Your Website 2019</span>
+                <span class="copyright">Copyright &copy; Lukinhas Gostoso 2019</span>
             </div>
             <div class="col-md-4">
                 <ul class="list-inline social-buttons">

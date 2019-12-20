@@ -12,10 +12,11 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('agito-kids');
 });
 
-
+/*
 Route::get('/agito-kids', function () {
     return view('agito-kids');
 });
+*/
